@@ -9,7 +9,9 @@
 ## Syllabus
 
 > We still have judgment here; that we but teach
+>
 > Bloody instructions, which, being taught, return
+>
 > To plague the inventor
 >
 > _Macbeth_, Act 1, Scene 7
