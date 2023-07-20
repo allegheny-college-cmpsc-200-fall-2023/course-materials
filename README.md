@@ -1,4 +1,4 @@
-# CMPSC 100: Computer Organization
+# CMPSC 200: Computer Organization
 
 ## Important resources
 
