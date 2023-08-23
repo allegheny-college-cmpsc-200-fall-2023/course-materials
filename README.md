@@ -24,7 +24,7 @@
 
 ### Contact
 
-* Mayor: Douglas Luman
+* Instructor: Douglas Luman
 * Email: dluman@allegheny.edu
 * Telephone: `+1 814 332 2136`
 * Office: Alden Hall, 112 (next to the copier)
@@ -36,6 +36,9 @@
 |Tuesday                   | 10:00 - 11:00      |Alden 112 |15:20 - 17:00  |Doane 106         |
 |Wednesday                 | 9:00 - 12:00       |Doane 106 |13:30 - 17:00  |Doane 106         |
 |Thursday                  | 10:00 - 11:00      |Alden 112 |               |                  |
+
+> Please note that my office hours are split between buildings. Before coming to find me in Alden,
+> have a look at the table above. Changes in location will be posted to our course Discord channel.
 
 ### Canonical course description
 
@@ -60,13 +63,9 @@ laptop in this course; a limited number of laptops are available for use during 
 
 #### Textbook
 
-This course uses a free, open access textbook.
+This course uses a free, open access textbook, findable at the link below. I suggest you bookmark it.
 
 * [Matthews, Newhall, and Webb, _Dive into Systems_](https://diveintosystems.org/book/)
-
-#### Software
-
-* 
 
 #### Platforms
 
@@ -74,7 +73,6 @@ This course relies on your regular use of:
 
 * [GitHub](https://github.com)
 * [Discord](https://discord.com)
-
 
 ### Governance and evaluation
 
@@ -85,7 +83,7 @@ You should consider the information provided here the basic "givens" of the cour
 
 #### Assignments
 
-All course assignments are assigned and evaluated using the GitHub platform. I will only assess work correctly deposited there. 
+All course assignments are assigned and evaluated using the GitHub platform. I will only assess work deposited there. 
 
 #### Course project
 
@@ -135,8 +133,10 @@ One of the goals of your time in this class, much less at Allegheny, is to learn
 your future work. While there are many ways that your assignments will test your understanding of the concepts underlying our coursework,
 I ask a few of things from you, completely aware that you are fully on your own honor with any of these:
 
-* be prepared to explain a detailed understanding of the code you're offering for review, documenting where and how you used an assistant tool
-* if using AI-generated solutions consider how you might improve them, document this in reports and implement your improvements in code
+* be prepared to explain a detailed understanding of the code you're offering for review, documenting where and how you used an assistant tool in:
+  * technical reports
+  * code comments, specifically labeling the portions of code derived
+* might improve an assitant-generated solution and document this in reports and implement your improvements in code
 * keep an operating assumption that I'm not reviewing your solutions for a "gotcha"; I only assume the best of your effort
 
 ### Classroom ethics
