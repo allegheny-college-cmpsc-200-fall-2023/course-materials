@@ -104,7 +104,7 @@ distinct phases and components discussed in the project's assignment sheet, to b
 
 I expect students to arrive to class prepared. Here, "prepared" means having completed reading assignments, compiled questions, 
 and being ready to engage thoughtfully with course material. In order to assist students' preparedness efforts, I will provide a 
-[schedule](https://chompe.rs/fall-2023-200-schedule) with assignments and accompanying materials or readings.
+[schedule](https://chompe.rs/200-schedule) with assignments and accompanying materials or readings.
 
 ### Allegheny College Statement of Community
 
