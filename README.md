@@ -12,7 +12,8 @@
 > 2. The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
 > 3. Any sufficiently advanced technology is indistinguishable from magic.
 >
-> Arthur C. Clarke, Clarke's Three Laws
+> Arthur C. Clarke, "Clarke's Three Laws"
+
 
 ### Course information
 
