@@ -8,9 +8,11 @@
 
 ## Syllabus
 
-> All stable processes we shall predict. All unstable processes we shall control.
+> 1. When a distinguished but elderly scientist states that something is possible, [they are] almost certainly right. When [they state] that something is impossible, [they are] very probably wrong.
+> 2. The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
+> 3. Any sufficiently advanced technology is indistinguishable from magic.
 >
-> John von Neumann
+> Arthur C. Clarke, Clarke's Three Laws
 
 ### Course information
 
