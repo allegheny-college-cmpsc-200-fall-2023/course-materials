@@ -76,6 +76,12 @@ This course relies on your regular use of:
 * [GitHub](https://github.com)
 * [Discord](https://discord.com)
 
+#### Hardware
+
+This course is centered around using hardware to provide a common platform for students. Early in the semester, you will be provided with hardware which we will use to complete activities and assignments, namely the Raspberry Pi Pico W.
+
+Assignments will require use of any devices provided and evaluation will be benchmarked to performance on hardware systems, _not necessarily personal computers (PCs)_. While you will use your PCs to program the devices, part of our work this semester is to understand the limitations and opportunities of environments which require understanding physical system topology and performance.
+
 ### Governance and evaluation
 
 This course's evaluation, participation and, eventually, grades, are governed by the [Course Contract](CODE_OF_CONDUCT.md).
