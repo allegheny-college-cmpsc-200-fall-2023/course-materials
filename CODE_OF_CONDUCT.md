@@ -137,6 +137,7 @@ The following table describes the letter grade a student can expect given labor 
 "hacks", given that that there are `10` major assignments in this course, not counting the course project.
 
 |Hacks awarded | Letter grade | 
+|:-------------|:-------------|
 | 6            | A            |
 | 5            | A-           |
 | 4            | B+           |
