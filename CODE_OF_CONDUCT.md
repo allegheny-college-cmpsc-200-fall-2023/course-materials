@@ -78,7 +78,7 @@ the "hack" to understand where my interest in evaluting this course derives.
 > **Instructor's note**: The above book is authentic and historically accurate, but
 > a record of problematic behaviors.
 
-We come to this in an era where "hacking" refers to malicious or nefarious work, but the essential
+We come to our work in an era where "hacking" refers to malicious or nefarious work, but the essential
 meaning of the term doesn't entertain this idea as essentially evil; to early computer systems folks --
 many of whose names you know very well -- the declaration to complete and total systems control and
 information was equal to an inalienable right. You've likely drawn a parallel between the above set
