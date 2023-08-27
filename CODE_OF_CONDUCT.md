@@ -14,10 +14,10 @@ computer technology or, as expert jockeys of the trade would tell you: as close 
 Much of the spirit that motivated the development of the modern computer came from folks both needing and wanting
 to be _very clever_. There are many good histories on the subject, but early computational history is as much
 one of desperation and necessity as it is of good planning, foreward thinking, and high-level design. After all,
-the first major challenge in digital computation was to _build a computer_ which reduced to, as George Dyson tells us
-in _Turing's Cathedral: the Origins of the Digital Universe_ about John von Neumann (i.e. "Johnny") and his co-conspirators:
+the first major challenge in digital computation was to build a computer which was the result of, as George Dyson tells us
+in _Turing's Cathedral: the Origins of the Digital Universe_:
 
-> after .... consultation with [major parts manufacturers], whose response was .... "there were no reliable [vacuum] 
+> consultation with [major parts manufacturers], whose response was .... "there were no reliable [vacuum] 
 > tubes, and no reliable resistors." The response .... was that "we would have to learn how to design a reliable
 > [machine] with thousands of unreliable components." And they did.
 
@@ -27,7 +27,7 @@ the "hack" to understand where my interest in evaluting this course derives.
 
 The above defines the conditions in which I find it useful to challenge you to go _beyond_ strict course application, but says nothing about why I choose to implement a labor-based contract in this course. Much of what the assignments directly test through specifications defined through GatorGrader (our automated grading system) cover the basic knowledge. This level of understanding represents the _average_ of what the industry would expect those new to the field to know about computer systems architecture and functionality.
 
-As such, the covenants of this contract are here to reassure and protect you from a fear of failure. Consistent and earnest effort provides this safety net. There are ways for you to essentially "choose your own adventure" in the evaluation of this course, and I encourage you to engage at the level that you see fit. My sincerest hope remains that structuring this course to reward labor dictated, at least in some small part, by your interest is the surest way to allowing yourself to guide and manage your own learning.
+As such, the covenants of this contract are here to reassure and protect you from a fear of failure. Consistent and earnest effort provides this safety net. There are ways for you to essentially "choose your own adventure" in the evaluation of this course, and I encourage you to engage at the level that you see fit. My sincerest hope remains that structuring this course to reward labor dictated, at least in some small part, by your interest allows you to guide and manage your own learning.
 
 ### A brief history of "hacks"
 
@@ -115,12 +115,14 @@ Each lab assignment will feature suggestions of Hacks to implement. You may choo
 propose one of your own provided that:
 
 * code comments document the area of code featuring the Hack
-* accompanying documentation clearly and _gregariously_ provides:
+* accompanying documentation [clearly](#clearly) and [_gregariously_](#gregariously) provides:
   * a description of the hack
   * a record of the 
   * an explanation of the potential value of implementing the hack
 
-#### "Clearly"
+#### Detour for defintion of terms
+
+##### "Clearly"
 
 An explanation of a Hack is "clear" if it:
 
@@ -131,7 +133,7 @@ An explanation of a Hack is "clear" if it:
   * test cases which consistently and reliably result in system failure
   * assumptions which users must know before using the Hack
 
-#### "Gregariously"
+##### "Gregariously"
 
 Depending on assignment complexity, requirements for length of a response ("gregariousness") will vary. Each hack will feature a minimum word count associated in order to claim credit for the novel and/or clever method you've come up with. These counts will be provided as part of the assignment in a special section ("Hacks") dedicated to outlining the potential approaches and rules for implementing hacks.
 
@@ -188,7 +190,7 @@ An `Ignored` course project will result in a course grade of `F`.
 Students engaging in academically dishonest behavior will be assessed on a case-by-case basis, as circumstances and factors of a case vary widely. However, in situations where academic dishonesty is established, the variety of penalties might include (but are not limited to):
 
 * disqualification from receving credit for a Hack
-* automatic assessment of an `Ignored`` assignment for a given assignment
+* automatic assessment of an `Ignored` assignment for a given assignment
 * ineligibility to earn a grade above the `Basic Grade`
 
 In severe cases, academic dishonesty may be referred to the Allegheny College Honor Code Committee, though these cases are rare (i.e. _almost_ non-existent). For clarification regarding what qualifies as "academic dishonesty" consult the [Syllabus](syllabus.md) and the _Compass_.
