@@ -79,8 +79,8 @@ As such, the covenants of this contract are here to reassure and protect you fro
 >
 > Steven Levy, _Hackers: Heroes of the Computer Revolution_
 
-> **Instructor's note**: The above book is authentic and historically accurate, but
-> a record of problematic behaviors.
+> **Instructor's note**: The above book is authentic and historically accurate, but is also
+> a record of problematic behaviors by more than a few toxic figures in computational history.
 
 We come to our work in an era where "hacking" refers to malicious or nefarious work, but the essential
 meaning of the term doesn't entertain this idea as essentially evil; to early computer systems folks --
