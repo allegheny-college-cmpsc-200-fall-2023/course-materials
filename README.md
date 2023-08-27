@@ -8,11 +8,9 @@
 
 ## Syllabus
 
-> 1. When a distinguished but elderly scientist states that something is possible, [they are] almost certainly right. When [they state] that something is impossible, [they are] very probably wrong.
-> 2. The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
-> 3. Any sufficiently advanced technology is indistinguishable from magic.
+> I mean, it's like getting four hundred thousand people to agree what they want to have for lunch.
 >
-> Arthur C. Clarke, "Clarke's Three Laws"
+> Rich Seidner, IBM, "Triumph of the Nerds: Part III"
 
 
 ### Course information
