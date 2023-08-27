@@ -25,6 +25,10 @@ To but it bluntly, we are where we are because of _hacks_. Many of these hacks r
 enable high-level functionality. I think it's important that we read a bit about the historical definition of
 the "hack" to understand where my interest in evaluting this course derives.
 
+The above defines the conditions in which I find it useful to challenge you to go _beyond_ strict course application, but says nothing about why I choose to implement a labor-based contract in this course. Much of what the assignments directly test through specifications defined through GatorGrader (our automated grading system) cover the basic knowledge. This level of understanding represents the _average_ of what the industry would expect those new to the field to know about computer systems architecture and functionality.
+
+As such, the covenants of this contract are here to reassure and protect you from a fear of failure. Consistent and earnest effort provides this safety net. There are ways for you to essentially "choose your own adventure" in the evaluation of this course, and I encourage you to engage at the level that you see fit. My sincerest hope remains that structuring this course to reward labor dictated, at least in some small part, by your interest is the surest way to allowing yourself to guide and manage your own learning.
+
 ### A brief history of "hacks"
 
 > The Hacker Ethic:
@@ -80,7 +84,7 @@ the "hack" to understand where my interest in evaluting this course derives.
 
 We come to our work in an era where "hacking" refers to malicious or nefarious work, but the essential
 meaning of the term doesn't entertain this idea as essentially evil; to early computer systems folks --
-many of whose names you know very well -- the declaration to complete and total systems control and
+many of whose names you know very well -- the desire to attain complete and total systems control and
 information was equal to an inalienable right. You've likely drawn a parallel between the above set
 of statements about systems to those that the discipline of computer science (at least in this department's
 view of it) holds sacred.
