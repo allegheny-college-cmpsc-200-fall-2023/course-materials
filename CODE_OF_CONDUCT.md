@@ -116,9 +116,9 @@ propose one of your own provided that:
 
 * code comments document the area of code featuring the Hack
 * accompanying documentation [clearly](#clearly) and [_gregariously_](#gregariously) provides:
-  * a description of the hack
-  * a record of the 
-  * an explanation of the potential value of implementing the hack
+  * a description of the Hack
+  * a record of the process that led you to need or realize the Hack
+  * an explanation of the potential value of implementing the Hack
 
 #### Detour for defintion of terms
 
